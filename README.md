@@ -12,3 +12,4 @@
 - [ ] Την μεταφορά μου από το πρόγραμμα Milk Science and Latte Art του BaristaHustle αξίας 100 USD. 
 - [ ] Ένα δικό μου εισαγωγικό άρθρο στον κόσμο του καφέ φίλτρου
 - [ ] Την μεταφορά μου από το πρόγραμμα Advanced espresso του BaristaHustle αξίας 179 USD. 
+- [ ] Την μεταφορά μου από το πρόγραμμα Terroir του BaristHustle αξίας 129 USD.
