@@ -21,6 +21,8 @@
 
 [Enjoy Jave : Terroir coffee](https://enjoyjava.com/terroir-coffee/)
 
+[LarissaPress : Terroir](https://www.larissapress.gr/2022/01/16/terroir-ena-vasiko-stoicheio-stin-taftotita-tou-kafe/)
+
 #### Υψόμετρο
 [Perfect Daily Grind : Altitude and soil on coffee flavour](https://perfectdailygrind.com/2017/07/how-to-roast-coffee-from-different-origins/)
 
@@ -72,6 +74,8 @@
 [Coffees : Κλιματική αλλαγή](https://www.coffees.gr/climate-change-coffee/?s_layout=13)
 
 [BBC : Future proofing coffee](https://www.bbc.com/news/science-environment-56804147)
+
 [BBC : Climate change threat to Arabica coffee crops](https://www.bbc.com/news/science-environment-20252472)
+
 [BBC : Saving coffee from extinction](https://www.bbc.com/news/magazine-32736366)
 
