@@ -57,6 +57,9 @@
 
 [Barista Hustle : Tamping Strength](https://www.baristahustle.com/blog/how-hard-should-you-tamp/)
 
+#### καλάθια
+[Artisti coffee roasters on Youtube : In your ESPRESSO MACHINE which PORTAFILTER BASKET should you use?](https://www.youtube.com/watch?v=gm2OzyHkhIU)
+
 #### Temperature
 [Homegrounds : Θερμοκρασία στο group](https://www.homegrounds.co/espresso-temperature/)
 
