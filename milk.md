@@ -16,6 +16,15 @@
 #### Ιστορία του latte art
 [PerfectDailyGrind : History of Latte Art](https://perfectdailygrind.com/2022/01/understanding-the-history-of-latte-art/)
 
+#### Υποκατάστατα γάλακτος
+[Bean Scene : Barista's guide to dairy alternatives - κόψιμο γάλακτος](https://www.beanscenemag.com.au/a-baristas-guide-to-dairy-alternatives-how-to-stop-your-soy-milk-curdling-in-coffee/)
+
+[Bean Scene : Barista's guide to dairy alternatives - γάλα βρώμης](https://www.beanscenemag.com.au/a-baristas-guide-to-dairy-alternatives-oat-milk/)
+
+[Bean Scene : Barista's guide to dairy alternatives - γάλα αμυγδάλου](https://www.beanscenemag.com.au/a-baristas-guide-to-dairy-alternatives-almond-milk/)
+
+
+
 #### Από τι αποτελείται το γάλα;
 [Cheese Science Toolkit : MIlk](https://www.cheesescience.org/milk.html)
 

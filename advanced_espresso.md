@@ -42,7 +42,9 @@
 
 [Perfect Daily Grind : Πως η θερμοκρασία από τον μύλο επιρρεάζει το τελικό αποτέλεσμα](https://perfectdailygrind.com/2019/03/how-ground-coffee-temperature-causes-uneven-espresso-extraction/)
 
-[Bean Scene : Θερμοκρασία μύλου και μηχανής](https://www.beanscenemag.com.au/how-temperature-effects-coffee-machine-performance/)
+[Bean Scene : Θερμοκρασία μηχανής](https://www.beanscenemag.com.au/how-temperature-effects-coffee-machine-performance/)
+
+[Bean Scene : θερμοκρασία αλεσμένου καφέ](https://www.beanscenemag.com.au/how-grind-temperature-impacts-extraction/)
 
 #### Espresso Extraction
 [Lance Hedrick on Youtube : ESPRESSO EXTRACTION THEORY: How to Dial in Espresso Like a Pro (pt. 1)](https://www.youtube.com/watch?v=hihG6kaxbk8)
@@ -78,6 +80,8 @@
 [Whole latte love : Different boilers](https://www.wholelattelove.com/blogs/tech-tips/espresso-machine-boiler-types)
 
 [Clive Coffee on Youtube : How To Choose An Espresso Machine: Boiler](https://www.youtube.com/watch?v=VHwOcE_NGlE)
+
+[Bean Scene : Cofee machine boiler 101](https://www.beanscenemag.com.au/coffee-machine-boiler-101/)
 
 #### Flow rate
 [Barista Hustle : temperature on flowrate](https://www.baristahustle.com/blog/temperatures-hidden-effect/)
