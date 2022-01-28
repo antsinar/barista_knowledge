@@ -69,3 +69,5 @@
 [European Coffee Trip on Youtube : How to Clean an Espresso Machine | Barista Training w/ Gwilym Davies](https://www.youtube.com/watch?v=7Kj8FY1hoMs)
 
 [Coffee Time on Youtube : Cleaning your Espresso Machine](https://www.youtube.com/watch?v=fd03BqFWjTk)
+
+[LarissaPress : Πως καθαρίζεται η μηχανή του καφέ](https://www.larissapress.gr/2021/04/18/pos-katharizetai-i-michani-tou-kafe/)
