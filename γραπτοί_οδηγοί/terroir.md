@@ -23,46 +23,58 @@
 
 #### καφέα
 
-The coffee beverage that we know and appreciate results from roasted seeds from trees belonging to the botanical family Rubiaceae, genus Coffea. Although over 100 species within the genus Coffea have been catalogued, only two are actually of great importance in the world market, C. arabica L. and C. canephora
+Το ρόφημα του καφέ όπως το ξέρουμε είναι αποτέλεσμα καβουρδισμένων κόκκων από το δέντρο που ανήκει βοτανολογικά στην οικογένεια Rubiaceae, γένος Coffea. Παρόλο που έχουν κατηγοριοποιηθεί πάνω από 100 είδη στο γένος καφέα, μόνο δύο έχουν μεγάλη σημασία στην παγκόσμια αγορά του καφέ. Η καφέα αράμπικα και η καφέα κανίφορα ή ρομπούστα. 
 
 #### ποικιλίες
-Ενδεικτικά
+Ενδεικτικές ποικιλίες αράμπικα
 
 Typica
 
 Bourbon
 
-SL14, SL28, SL34
-
 
 #### roots
 
-Coffee plants are perennial, and the establishment of an adequate root system is fundamental to the health of the tree and its subsequent production throughout its lifetime. The root system (Figure 1.5) plays several key roles for the plant. Though often overlooked, it serves the basic function of fixing the plant in the soil or substrate. Perhaps the most widely known role is providing water to the plant. Apart from being a major constituent of plants, water acts as a solvent that serves to transport gases, minerals and other solutes from cell to cell and organ to organ; is a reactant in important processes such as photosynthesis; and maintains turgor, which is essential for cell enlargement and growth.37 The root system also serves as a reserve for carbohydrates, and produces and accumulates key phytohormones such as auxins, abscisic acid and cytokines.
+Ένα στιβαρό δίκτυο από ρίζες είναι καταλύτης για τη μακροζωία και την παραγογικότητα του φυτού του καφέ. Πρώτα από όλα, παίζει σημαντικό ρόλο στο να κρατάει το φυτό στο έδαφος. Πιθανότατα ο πιο γνωστός ρόλος των ριζών είναι να παρέχουν νερό στο φυτό.Πέρα από το να είναι βασικό για την υγεία του φυτού,το νερό δρα και ως διαλύτης για τη μεταφορά αερίων, μετάλων και άλλων διαλυτών από κύτταρο σε κύτταρο και από όργανο σε όργανο, σημετέχει στη φωτοσύνθεση και βοηθά στην ανάπτυξη των οργάνων του φυτού. Το δίκτυο ριζών επίσης δρα και ο ρεζερβουάρ υδατανθράκων, και παράγει και συσσωρεύει ορμόνες.
 
 #### branches
 
-Above the ground, coffee plants exhibit a dimorphic branching behaviour (Figure 1.6), in which orthotropic (vertical) stems produce plagiotropic (horizontal) branches, which in turn produce more plagiotropic branches and coffee fruit
+Πάνω από το έδαφος, το φυτό του καφέ έχει διμορφική συμπεριφορά κλαδιών,στην οποία δηλαδή κατακόρυφα στελέχη παράγουν οριζόντια κλαδιά.
 
-The development and growth of the plant is dependent on species, variety and the environmental conditions in which the plant is situated. With C. arabica, within one year the plant typically develops six to ten levels of plagiotropic branches. After two years the orthotropic stem is usually 1.2–2 m in height, and the first flowers appear. After three years, the plant reaches maturity and usually begins to yield commercial crops
+Η ανάπτυξητου φυτού εξαρτάται από το είδος,την ποικιλία και τις συνθήκες του περιβάλλοντοςπου βρίσκεται το φυτό. Στην αράμπικα,μέσα σε ένα χρόνο το φυτό έχει αναπτύξει 6 με 10 επίπεδα πλαγιοτρόπων κλαδιών. Μετά από δύο χρόνια το στέλεχος είναι ανάμεσα σε 1,2 και 2 μέτρα σε ύψος, και ανθίζουν τα πρώτα λουλούδια. Στα τρία χρόνια, το φυτό ενηλικιώνεται και παράγει κανονικές ποσότητες.
 
 #### leaves
 
-The foliar surface of adult coffee trees varies according to species, state of health, irradiance levels and many other factors.48,50 In the principal commercial varieties, C. arabica and C. canephora, leaves are generally thin, shiny and waxed, elliptical in form and conspicuously veined. They typically grow in pairs that are opposite to each other on the branch. Between these two species, the main difference is that Coffea arabica leaves are smaller, with a glossy dark upper surface, while Coffea canephora leaves are often lighter in colour, less waxy, larger and slightly undulating 
+Το φύλλωμα ενός ενήλικου καφεόδεντρου διαφέρει ανάλογα με το είδος, κατάσταση υγείας και από πολλούς άλλους παράγοντες. Κατά κύριο λόγο, στη αράμπικα και στη κανέφορα(ρομπουστα), τα φύλλα είναι σχετικά λεπτά και γυαλιστερά, ελλυψοειδή σε σχήμα και φλεβώδη. Μεγαλώνουν σε ζεύγη που είναι αντίθετα το ένα από το άλλο στο κλαδί.Η διαφορά των δύο αυτών ειδών είναι ότι τα φύλλα της αράμπικα είναιι μικρότερα, με γυαλιστερή πάνω επιφάνεια, ενώ της κανέφορα είναι πιο ανοιχτόχρωμα, μεγαλύτερα και ελαφρώς κυματοειδής. 
 
-younger leaves of C. arabica are either light green or bronze, depending on whether the plant is of Bourbon or Typica variety in origin, respectively (Figure 1.8). The bronze colour of Typica plants fades with age.
+Τα νεαρά φύλλα της Αράμπικα είναι ανοιχτά πράσινα ή χάλκινα, ανάλογα με το αν προέρχονται από παραλλαγή Bourbon ή Typica. Το χάλκινο χρόμα των φύλλων της Typica φεύγει με τα χρόνια.
 
-The lifecycle of coffee leaves varies between species. C. arabica, under greenhouse (phytotron) conditions, reaches full leaf expansion after 30–35 days and maximum dry weight after 50–60 days
+Η διάρκεια ζωής μεταβάλλετε με το είδος.Η Αράμπικα σε συνθήκες θερμοκηπείου, φτάνει σε μέγιστη εξάπλωση φύλλων στις 30-35 μέρες και μέγιστο βάρος στις 50-60 μέρες.
 
 #### φρούτο
 
-Όμως από τι αποτελείται ένα κεράσι καφέ; Πάμε λοιπόν να δούμε αναλυτικά από έξω προς τα μέσα. Με μία πρώτη ματιά βλέπουμε το εξωκάρπιο (outerskin/ exocare), είναι το εξωτερικό περίβλημα του καρπού που το βρίσκουμε σε διαφορετικά χρώματα όπως αναφέραμε πιο πάνω. Είναι σκληρό για να προστατεύει τα ευαίσθητα εσωτερικά μέρη από τις περιβαλλοντικές συνθήκες, τις αρρώστιες και τα ζώα. Η ομοιότητα του με τον καρπό της κερασιάς του έδωσε την ονομασία ‘’κεράσι του καφέ’’.
+Πάμε λοιπόν να δούμε αναλυτικά από έξω προς τα μέσα. Με μία πρώτη ματιά βλέπουμε το εξωκάρπιο , είναι το εξωτερικό περίβλημα του καρπού που το βρίσκουμε σε διαφορετικά χρώματα. Είναι σκληρό για να προστατεύει τα ευαίσθητα εσωτερικά μέρη από τις περιβαλλοντικές συνθήκες, τις αρρώστιες και τα ζώα.
 
-Στην συνέχεια θα βρούμε το μεσοκάρπιο ή πούλπα ή παρέγχυμο (Μesocarp/ Pulp/ Mucilage). Είναι το κυριότερο κομμάτι του καρπού μετά το σπέρμα. Περιέχει σάκχαρα, πεκτίνες και νερό και είναι το κομμάτι του καρπού που κατά την επεξεργασία θα μας δώσει διαφορετικά γευστικά προφίλ ανάλογα με το αν ή και πόσο θα αφαιρεθεί και με ποιόν τρόπο. Μετά από έρευνες κατέληξαν πως το ποσοστό του νερού που περιέχει εξαρτάται από το υψόμετρο του δέντρου.
+Στην συνέχεια θα βρούμε το μεσοκάρπιο ή πούλπα. Είναι το κυριότερο κομμάτι του καρπού μετά το σπέρμα. Περιέχει σάκχαρα, πεκτίνες και νερό και είναι το κομμάτι του καρπού που κατά την επεξεργασία θα μας δώσει διαφορετικά γευστικά προφίλ ανάλογα με το αν ή και πόσο θα αφαιρεθεί και με ποιόν τρόπο.
 
-Το τελευταίο μέρος πριν τον καρπό είναι το ενδοκάρπιο ή περγαμηνή (Endocarp/ Parchment), το οποίο αφαιρείται μετά το στέγνωμα και πριν τη μεταφορά του, είναι η τελευταία στρώση προστασίας του καρπού και αυτό ορίζει το τελικό μέγεθος και όσο αυτός ωριμάζει οι στρώσεις του αρχίζουν να σκληραίνουν μία – μία μέχρι να διαμορφωθεί το σχήμα του.
+Το τελευταίο μέρος πριν τον καρπό είναι το ενδοκάρπιο ή περγαμηνή, το οποίο αφαιρείται μετά το στέγνωμα και πριν τη μεταφορά του, είναι η τελευταία στρώση προστασίας του καρπού και αυτό ορίζει το τελικό μέγεθος και όσο αυτός ωριμάζει οι στρώσεις του αρχίζουν να σκληραίνουν μία – μία μέχρι να διαμορφωθεί το σχήμα του.
 
-Στην συνέχεια παρατηρούμε το περίβλημα ή σπερόδεσμα ή  περίσπερμα (Silverskin/ Intergarment). Είναι κολλημένο πάνω στον καρπό και αφαιρείται με ‘’γυάλισμα’’ ή κατά το καβούρντισμα ή και καθόλου. Πολλές φορές ίσως βρούμε κομμάτια του στον αλεσμένο καφέ (άσπρα πολύ μικρά), τα οποία όμως δεν έχουν αρνητική επίδραση στη γεύση.
+Στην συνέχεια παρατηρούμε το περίβλημα. Είναι κολλημένο πάνω στον καρπό και αφαιρείται με ‘’γυάλισμα’’ ή κατά το καβούρντισμα ή και καθόλου. Πολλές φορές ίσως βρούμε κομμάτια του στον αλεσμένο καφέ, τα οποία όμως δεν έχουν αρνητική επίδραση στη γεύση.
 
-Λίγο πρίν το τέλος συναντάμε το κομμάτι του καρπού για το οποίο γίνονται όλα το ενδόσπερμα – σπέρμα ή καρπός ή κόκκος (Εndosperm/ Bean).
+Λίγο πρίν το τέλος συναντάμε το κομμάτι του καρπού για το οποίο γίνονται όλα το ενδόσπερμα - καρπός ή κόκκος (Εndosperm/ Bean).
 
-Καφεΐνη, έλαιο, πρωτεΐνες, νερό και άλλα συστατικά δημιουργούν τον καρπό που απεγνωσμένα ζητάμε σχεδόν κάθε πρωί. Τέλος υπάρχει το έμβρυο (Εmbryo).
+Καφεΐνη, έλαιο, πρωτεΐνες, νερό και άλλα συστατικά δημιουργούν τον καρπό. Τέλος υπάρχει το έμβρυο (Εmbryo).
+
+#### Η ζώνη του καφέ
+
+
+
+#### Χημεία εδάφους
+
+
+
+#### Φύτεμα καφέας
+
+
+
+#### Αρρώστιες φυτού
